@@ -44,6 +44,7 @@
 |Conference| Title   |     Link     |  Abstract |
 |:-------|:----------|:-------------:|:------|
 |USENIX 2013|Exploring System Challenges of Ultra-Low Latency Solid State Drives|[link](https://www.usenix.org/system/files/conference/hotstorage18/hotstorage18-paper-koh.pdf)|We quantitatively characterize performance behaviors of a real ultra-low latency (ULL) SSD archive by using a real 800GB Z-SSD prototype, and analyze systemlevel challenges that the current storage stack exhibits.|
+|Symposium on Mass Storage Systems and Technologies (MSST) 2015|A Study of Application Performance with Non-Volatile Main Memory|[link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7208275)|We present an analysis of storage application performance with non-volatile main memory (NVMM) using a hardware NVMM emulator that allows fine-grain tuning of NVMM performance parameters.|
 
 
 
