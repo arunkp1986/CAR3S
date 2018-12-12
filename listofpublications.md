@@ -43,7 +43,7 @@
 
 |Conference| Title   |     Link     |  Abstract |
 |:-------|:----------|:-------------:|:------|
-|NVMW 2013|Exploring System Challenges of Ultra-Low Latency Solid State Drives|[link](https://www.usenix.org/system/files/conference/hotstorage18/hotstorage18-paper-koh.pdf)|We quantitatively characterize performance behaviors of a real ultra-low latency (ULL) SSD archive by using a real 800GB Z-SSD prototype, and analyze systemlevel challenges that the current storage stack exhibits.|
+|USENIX 2013|Exploring System Challenges of Ultra-Low Latency Solid State Drives|[link](https://www.usenix.org/system/files/conference/hotstorage18/hotstorage18-paper-koh.pdf)|We quantitatively characterize performance behaviors of a real ultra-low latency (ULL) SSD archive by using a real 800GB Z-SSD prototype, and analyze systemlevel challenges that the current storage stack exhibits.|
 
 
 
