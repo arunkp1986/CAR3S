@@ -39,6 +39,11 @@
 |NVMW 2014|LightNVM: Lightning Fast Evaluation Platform for Non-Volatile Memories|[link](https://pdfs.semanticscholar.org/30eb/bf2b42ef3a5714b0f5350f85842e3ca2e408.pdf)|We present LightNVM, an SSD evaluation platform, that is both magnitude faster of current solutions, but also presents a highly scalable engine for low-latency memory designs, such as PCM and MRAM, to evaluate novel research work, without using an expensive evaluation platform.|
 |NVMW 2013|bcache: Efficient Block Caching on SSDs|[link](https://bcache.evilpiepirate.org/)|We present bcache, a high performance block layer SSD cache. We\'ll briefly explore the architecture and analyze the various tradeoffs and optimizations required to make it effective in real world situations.|
 
+# Added on 12 December 2018
+
+|Conference| Title   |     Link     |  Abstract |
+|:-------|:----------|:-------------:|:------|
+|NVMW 2013|Exploring System Challenges of Ultra-Low Latency Solid State Drives|[link](https://www.usenix.org/system/files/conference/hotstorage18/hotstorage18-paper-koh.pdf)|We quantitatively characterize performance behaviors of a real ultra-low latency (ULL) SSD archive by using a real 800GB Z-SSD prototype, and analyze systemlevel challenges that the current storage stack exhibits.|
 
 
 
