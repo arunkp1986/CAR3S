@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T07:26:46.344Z" agent="5.0 (X11)" etag="IeYtis9kL_cjCtUrPJ-_" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-03T08:08:32.255Z" agent="5.0 (X11)" etag="j93Jm5s0Bu3ZFYD9Z-_c" version="14.2.9" type="github">
   <diagram id="Ad-x17au8eywYAIB-yYd" name="Page-1">
     <mxGraphModel dx="1350" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
         <mxCell id="E1Pz37GCyAGTsrBwU5gB-22" value="Object Store" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="460" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="E1Pz37GCyAGTsrBwU5gB-24" value="VA Management" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E1Pz37GCyAGTsrBwU5gB-24" value="VAS Management" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="470" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
