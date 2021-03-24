@@ -1,0 +1,5 @@
+one,At one end of the big barn
+end,At one end of the big barn
+big,At one end of the big barn
+barn,At one end of the big barn
+major,already,ensconced,bed,Major was already ensconced on his bed
