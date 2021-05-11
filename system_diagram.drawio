@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T14:28:15.114Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="pY-7F5uXtvt9WD8gB5Lz" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-11T14:28:54.858Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="aoyEotz_gv87tLK7G-Qm" version="14.6.11" type="github">
   <diagram id="4dlnrqKyph9Nnh0UXESW" name="Page-1">
     <mxGraphModel dx="1350" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,10 +89,10 @@
           <mxGeometry x="705" y="410" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="loAqNdU8JJQzgeKkbSfA-69" value="undo logging" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="140" y="460" width="130" height="20" as="geometry" />
+          <mxGeometry x="140" y="444" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="loAqNdU8JJQzgeKkbSfA-70" value="redo logging" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="575" y="460" width="130" height="20" as="geometry" />
+          <mxGeometry x="575" y="444" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
