@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T15:12:58.116Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Dxetz2OZvi-ZTtXWD0wX" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T15:13:51.958Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="lFlhlmAcdHvOoZt2H8GI" version="14.7.7" type="github">
   <diagram id="mjgqmSHZGCYBxVDJmJig" name="Page-1">
     <mxGraphModel dx="2575" dy="1575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -164,9 +164,6 @@
         <mxCell id="CRLOc1WB8V-iHWx_uGIP-6" value="crash" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="693.0000000000001" y="342" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CRLOc1WB8V-iHWx_uGIP-14" value="(With persistent barrier)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="563.91" y="637" width="469.09" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="CRLOc1WB8V-iHWx_uGIP-17" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fontSize=25;fontColor=#FFFFFF;fillColor=#0000FF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="343" y="415" width="45" height="10" as="geometry" />
         </mxCell>
@@ -181,15 +178,6 @@
         </mxCell>
         <mxCell id="rw0pJkleUwbmweoXINBP-8" value="persistent domain" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;rotation=270;fontStyle=0;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="1091.96" y="509" width="226.63" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="m-glO5hM-z1kY4RQVLUW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#0000CC;" parent="1" vertex="1">
-          <mxGeometry x="553.91" y="90" width="460" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="m-glO5hM-z1kY4RQVLUW-3" value="A, B - NVM Addresses" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="558.09" y="106" width="458" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="m-glO5hM-z1kY4RQVLUW-4" value="Store (A, 1) - Write 1 to NVM address A" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="558.0899999999999" y="135" width="458" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
